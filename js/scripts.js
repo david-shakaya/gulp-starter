@@ -1,1 +1,1 @@
-"use strict";
+"use strict";var sum=5;console.log("hello world");
